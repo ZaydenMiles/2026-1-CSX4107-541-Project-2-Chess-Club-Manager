@@ -6,9 +6,14 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "seed": "node --env-file=.env.local scripts/seed.js",
+    "seed:prod": "node --env-file=.env.production scripts/seed.js"
   },
   "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "jose": "^6.2.12",
+    "mongoose": "^9.10.2",
     "next": "16.3.6",
     "react": "19.2.8",
     "react-dom": "19.2.8"
@@ -16,5 +21,6 @@
   "devDependencies": {
     "eslint": "^9",
     "eslint-config-next": "16.3.6"
-  }
+  },
+  "type": "module"
 }
