@@ -123,6 +123,14 @@ Open http://localhost:3000 and log in with a seeded account:
 
 Other sample players use the password `player123`.
 
+### Tests
+
+Unit tests for the Elo rating and standings logic use Node's built-in test runner (no extra packages):
+
+```bash
+npm test
+```
+
 ## Deployment
 
 The production app runs on an Ubuntu VM with PM2 behind Nginx. Step by step instructions are in [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md). Config files: [ecosystem.config.cjs](ecosystem.config.cjs) and [deploy/nginx.conf](deploy/nginx.conf).
