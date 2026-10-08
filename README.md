@@ -11,8 +11,8 @@ Built with **Next.js** (App Router, REST API routes) and **MongoDB** (Mongoose).
 | Name | GitHub |
 | --- | -- |
 | Lwin Pyae Aung | (https://github.com/ZaydenMiles) |
-| Bhone Pyae San | (https://github.com/NyanCodes) |
-| Nyan Myo Sett | (https://github.com/kobsan10) |
+| Bhone Pyae San | (https://github.com/kobsan10) |
+| Nyan Myo Sett | (https://github.com/NyanCodes) |
 
 ## Project Description
 
