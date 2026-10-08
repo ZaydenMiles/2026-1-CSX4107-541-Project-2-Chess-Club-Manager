@@ -10,9 +10,9 @@ Built with **Next.js** (App Router, REST API routes) and **MongoDB** (Mongoose).
 
 | Name | GitHub |
 | --- | -- |
-| Lwin Pyae Aung | (https://github.com/ZaydenMiles) |
-| Bhone Pyae San | (https://github.com/kobsan10) |
-| Nyan Myo Sett | (https://github.com/NyanCodes) |
+| Lwin Pyae Aung | [ZaydenMiles](https://github.com/ZaydenMiles) |
+| Bhone Pyae San | [kobsan10](https://github.com/kobsan10) |
+| Nyan Myo Sett | [NyanCodes](https://github.com/NyanCodes) |
 
 ## Project Description
 
