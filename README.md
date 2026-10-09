@@ -4,7 +4,7 @@ A full-stack web application for a university chess club to manage its players, 
 
 Built with **Next.js** (App Router, REST API routes) and **MongoDB** (Mongoose).
 
-**Live demo:** `http://<your-vm-ip>/` (replace after deployment)
+**Live demo:** [http://wd-chessclub-manager.southeastasia.cloudapp.azure.com](http://wd-chessclub-manager.southeastasia.cloudapp.azure.com)
 
 ## Team Members
 
@@ -133,7 +133,7 @@ npm test
 
 ## Deployment
 
-The production app runs on an Ubuntu VM with PM2 behind Nginx. Step by step instructions are in [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md). Config files: [ecosystem.config.cjs](ecosystem.config.cjs) and [deploy/nginx.conf](deploy/nginx.conf).
+The production app runs on an Azure virtual machine (Ubuntu 24.04, Southeast Asia) with PM2 behind Nginx, at [wd-chessclub-manager.southeastasia.cloudapp.azure.com](http://wd-chessclub-manager.southeastasia.cloudapp.azure.com). Step by step instructions are in [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md). Config files: [ecosystem.config.cjs](ecosystem.config.cjs) and [deploy/nginx.conf](deploy/nginx.conf).
 
 ## Project Structure
 
