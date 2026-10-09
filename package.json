@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "test": "node --test tests/",
+    "test": "node --test \"tests/*.test.js\"",
     "seed": "node --env-file=.env.local scripts/seed.js",
     "seed:prod": "node --env-file=.env.production scripts/seed.js"
   },
